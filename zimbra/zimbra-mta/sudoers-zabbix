@@ -1,0 +1,2 @@
+zabbix  ALL=(ALL) NOPASSWD: /usr/local/bin/count_pf_mail.pl
+zabbix  ALL=(ALL) NOPASSWD: /usr/local/bin/zimbra_reject_count.pl
