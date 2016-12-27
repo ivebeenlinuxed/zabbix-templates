@@ -1,0 +1,1 @@
+zabbix  ALL=(ALL) NOPASSWD: /usr/local/bin/zimbra_soap_count.pl
